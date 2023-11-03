@@ -4,7 +4,7 @@ const apiLocal = process.env.NEXT_API_URL;
 
 const getTicketById = async (id) => {
   try {
-    const res = await fetch(`${apiLocal}/api/Tickets/${id}`, {
+    const res = await fetch(`http://localhost:3000/api/Tickets/${id}`, {
       cache: 'no-store',
     });
     return res.json();
