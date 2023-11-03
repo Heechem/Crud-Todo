@@ -1,3 +1,15 @@
+# Todo App with Ticket and Database Persistence
+
+Welcome to my Todo App project, where you can manage your tasks along with ticketing features. This app is designed to persist data in a MongoDB database. While the app is a work in progress and currently does not fetch data from the MongoDB database, it is built with the following technologies:
+
+Next.js 🚀
+MongoDB 📦
+Tailwind CSS 💅
+Stay tuned for updates as we continue to develop and enhance this application to provide you with a seamless and efficient task management experience!
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
